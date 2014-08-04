@@ -1,0 +1,41 @@
+Launchlist Submission Report for Last Delivery Project (http://whatsupstudio.com):
+
+Congratulations, your checklist was a success.
+Based on these results, your website should now be ready to launch!
+
+
+APPROVED ITEMS (CHECKED)
+----------------------------------------------------------------------------
+
+- All text free from spelling errors?
+- Content has been placed consistently?
+- Page & Content formatting has been tested?
+- Meta data has been included and is appropriate?
+- Page titles are descriptive and SEO friendly?
+- Images have appropriate alt text?
+- Title attributes are appropriate and SEO friendly?
+- Favicon has been created and displays correctly?
+- Footer includes copyright and link to site creator?
+- HTML has passed validation?
+- CSS has passed validation?
+- There are no broken links?
+- JavaScript is error free?
+- Displays & functions correctly in ie6?
+- Displays & functions correctly in ie7?
+- Displays & functions correctly in ie8?
+- Displays & functions correctly in Firefox (Mac & PC)?
+- Displays & functions correctly in Chrome (Mac & PC)?
+- Displays & functions correctly in Safari (Mac & PC)?
+- Displays & functions correctly in Opera (Mac & PC)?
+- Tested at 1024 x 768 resolution?
+- Tested at larger resolutions?
+- Forms have been tested and processed correctly?
+- Required fields have been tested?
+- Is your website backed up?
+- Is your website monitored?
+
+----------------------------------------------------------------------------
+
+This report has been crafted and delivered via Launchlist http://www.launchlist.net
+
+Follow Launchlist on twitter - http://twitter.com/launchlistapp
